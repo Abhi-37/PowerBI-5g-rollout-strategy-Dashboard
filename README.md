@@ -37,7 +37,7 @@ From this data, we see significant population centers and growth areas globally.
 ### Step 2: Focus on Asia
 
 By applying the continent filter for Asia, we refine our analysis to understand regional dynamics:
-
+<img  src="https://firebasestorage.googleapis.com/v0/b/vid-file.appspot.com/o/DV%2FDV%20Asia%20Dashboard%20.png?alt=media&token=d44b2c3d-b0ce-4a58-baeb-199ac95ea1f6">
 1. **Cards**:
    - **Total Population 2022**: 1262 Million
    - **Total Population 2023**: 1289 Million
@@ -58,7 +58,7 @@ Asia, being the most populous continent, presents numerous opportunities. Tokyo 
 ### Step 3: Deep Dive into India
 
 Narrowing down to India, we gain insights specific to Vodafone-Idea's home market:
-
+<img  src="https://firebasestorage.googleapis.com/v0/b/vid-file.appspot.com/o/DV%2FDV%20Asia%20Dashboard%20.png?alt=media&token=d44b2c3d-b0ce-4a58-baeb-199ac95ea1f6">
 1. **Cards**:
    - **Total Population 2022**: 248 Million
    - **Total Population 2023**: 254 Million
