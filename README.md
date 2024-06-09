@@ -2,7 +2,6 @@
 This repository provides a data-driven strategy for Vodafone-Idea's global 5G network rollout, leveraging Power BI insights &amp; outlines the strategic approach based on population dynamics and growth trends.
 
 ![5G Rollot dashboard](https://github.com/Abhi-37/PowerBI-5g-rollout-strategy-Dashboard/assets/169159978/23c1044f-d98f-41e4-8bbf-b15a1aaad675)
-<img width="800" src="https://github.com/Abhi-37/PowerBI-5g-rollout-strategy-Dashboard/assets/169159978/23c1044f-d98f-41e4-8bbf-b15a1aaad675">
 
 # Strategy for Vodafone-Idea's Global 5G Network Rollout
 
@@ -15,7 +14,7 @@ Vodafone-Idea aims to roll out its 5G network globally, with a particular focus 
 ### Step 1: Understanding Global Population Dynamics
 
 Using the dashboard, we start with an overview of global population dynamics, leveraging multiple visuals:
-
+<img  src="https://firebasestorage.googleapis.com/v0/b/vid-file.appspot.com/o/DV%2FDV%20main%20dashboard%20Pres.png?alt=media&token=d9b25592-b99b-447b-ba74-708f1f52a7e5">
 1. **Cards**:
    - **Total Population 2022**: 2029 Million
    - **Total Population 2023**: 2069 Million
