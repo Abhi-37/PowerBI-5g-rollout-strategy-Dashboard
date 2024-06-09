@@ -2,6 +2,7 @@
 This repository provides a data-driven strategy for Vodafone-Idea's global 5G network rollout, leveraging Power BI insights &amp; outlines the strategic approach based on population dynamics and growth trends.
 
 ![5G Rollot dashboard](https://github.com/Abhi-37/PowerBI-5g-rollout-strategy-Dashboard/assets/169159978/23c1044f-d98f-41e4-8bbf-b15a1aaad675)
+<img width="400" src="https://github.com/Abhi-37/PowerBI-5g-rollout-strategy-Dashboard/assets/169159978/23c1044f-d98f-41e4-8bbf-b15a1aaad675">
 
 # Strategy for Vodafone-Idea's Global 5G Network Rollout
 
