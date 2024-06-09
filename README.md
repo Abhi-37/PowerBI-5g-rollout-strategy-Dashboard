@@ -1,9 +1,7 @@
-![logo](https://firebasestorage.googleapis.com/v0/b/vid-file.appspot.com/o/DV%2F5G%20Rollot%20dashboard.gif?alt=media&token=908f1527-6156-416f-b24d-034cca94af3a)
 # PowerBI-5g-rollout-strategy-Dashboard
 This repository provides a data-driven strategy for Vodafone-Idea's global 5G network rollout, leveraging Power BI insights &amp; outlines the strategic approach based on population dynamics and growth trends.
 
-<img align="centre"  width="400" src="https://firebasestorage.googleapis.com/v0/b/vid-file.appspot.com/o/DV%2F5G%20Rollot%20dashboard.gif?alt=media&token=908f1527-6156-416f-b24d-034cca94af3a">
-
+![5G Network](https://firebasestorage.googleapis.com/v0/b/vid-file.appspot.com/o/DV%2F5G%20Rollot%20dashboard.gif?alt=media&token=908f1527-6156-416f-b24d-034cca94af3a)
 # Strategy for Vodafone-Idea's Global 5G Network Rollout
 
 ## Introduction
